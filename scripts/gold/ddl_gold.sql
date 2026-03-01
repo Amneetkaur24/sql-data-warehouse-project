@@ -74,6 +74,7 @@ SELECT
 sd.sls_ord_num AS order_number,
 pr.product_number,
 cs.customer_id,
+cs.Customer_key,
 sd.sls_order_dt AS order_date,
 sd.sls_ship_dt AS shipping_date,
 sd.sls_due_dt AS due_date,
