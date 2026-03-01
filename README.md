@@ -150,4 +150,4 @@ Business intelligence reporting
 
 I’m continuously improving my skills in data engineering and analytics by building practical, real-world portfolio projects.
 
-
+LinkedIn: [https://www.linkedin.com/in/amneetkaur24/][https://www.linkedin.com/in/amneetkaur24/]
