@@ -9,6 +9,14 @@ Designed as a portfolio project, it highlights practical skills in data engineer
 🏗️ Data Architecture
 <img width="955" height="563" alt="image" src="https://github.com/user-attachments/assets/7edcd12f-f80b-40bd-be51-ece59d6f31a2" />
 
+## Key Capabilities Demonstrated
+
+• ETL pipeline development
+• Data warehouse architecture
+• Star schema modeling
+• SQL analytics queries
+• Data quality validation
+
 This project follows a modern layered architecture inspired by the Medallion approach:
 
 🥉 Bronze Layer – Raw Data
