@@ -98,31 +98,31 @@ Draw.io (Architecture & Data Modeling)
 
 Git & GitHub
 
-📂 Repository Structure
-data-warehouse-project/
-
+📂 data-warehouse-project/
 │
-├── datasets/                # ERP and CRM raw CSV files
+├── datasets/
+│   └── # ERP and CRM raw CSV files
 │
-
-├── docs/                    # Documentation and architecture files
+├── docs/
 │   ├── data_architecture.drawio
 │   ├── data_models.drawio
 │   ├── data_flow.drawio
-│   ├── data_catalog.md
+│   └── data_catalog.md
 │
-
 ├── scripts/
-│   ├── bronze/              # Raw data loading scripts
-│   ├── silver/              # Data cleansing & transformation scripts
-│   ├── gold/                # Star schema & analytical model scripts
+│   ├── bronze/   # Raw data loading scripts
+│   ├── silver/   # Data cleansing & transformation scripts
+│   └── gold/     # Star schema & analytical model scripts
 │
-
-├── tests/                   # Data validation and testing queries
+├── tests/
+│   └── # Data validation and testing queries
 │
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+
+
 🚀 Who This Project Is For
 This repository demonstrates practical skills relevant to:
 
